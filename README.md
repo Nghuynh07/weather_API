@@ -7,7 +7,7 @@
 4) Select DOM elements and change it textContent bease on user's input
 
 <p align='center'>
-  <img src="weather_API.png">
+  <img src="weatherAPI.PNG">
 </p>
 
 Background image came from https://www.canva.com/
